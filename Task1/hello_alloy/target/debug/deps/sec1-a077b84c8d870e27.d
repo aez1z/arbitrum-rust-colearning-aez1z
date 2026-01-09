@@ -1,0 +1,11 @@
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\sec1-a077b84c8d870e27.d: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\point.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\error.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\parameters.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\private_key.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\traits.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\../README.md
+
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\libsec1-a077b84c8d870e27.rmeta: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\point.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\error.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\parameters.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\private_key.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\traits.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\../README.md
+
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\lib.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\point.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\error.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\parameters.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\private_key.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\traits.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sec1-0.7.3\src\../README.md:

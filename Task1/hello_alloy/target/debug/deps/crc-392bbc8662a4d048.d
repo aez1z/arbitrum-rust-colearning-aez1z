@@ -1,0 +1,12 @@
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\crc-392bbc8662a4d048.d: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc128.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc16.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc32.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc64.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc8.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\table.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\util.rs
+
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\libcrc-392bbc8662a4d048.rmeta: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc128.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc16.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc32.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc64.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc8.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\table.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\util.rs
+
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\lib.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc128.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc16.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc32.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc64.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\crc8.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\table.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.4.0\src\util.rs:

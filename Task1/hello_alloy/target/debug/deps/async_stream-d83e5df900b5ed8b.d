@@ -1,0 +1,8 @@
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\async_stream-d83e5df900b5ed8b.d: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\async_stream.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\next.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\yielder.rs
+
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\libasync_stream-d83e5df900b5ed8b.rmeta: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\async_stream.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\next.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\yielder.rs
+
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\lib.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\async_stream.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\next.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\yielder.rs:

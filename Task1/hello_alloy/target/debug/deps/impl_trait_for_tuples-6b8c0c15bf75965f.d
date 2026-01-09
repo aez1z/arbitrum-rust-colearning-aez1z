@@ -1,0 +1,8 @@
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\impl_trait_for_tuples-6b8c0c15bf75965f.d: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\utils.rs
+
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\impl_trait_for_tuples-6b8c0c15bf75965f.dll: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\utils.rs
+
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\lib.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\utils.rs:

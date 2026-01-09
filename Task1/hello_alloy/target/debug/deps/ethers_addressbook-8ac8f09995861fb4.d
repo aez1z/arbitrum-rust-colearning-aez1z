@@ -1,0 +1,9 @@
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\ethers_addressbook-8ac8f09995861fb4.d: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\../README.md C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\./contracts/contracts.json
+
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\libethers_addressbook-8ac8f09995861fb4.rlib: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\../README.md C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\./contracts/contracts.json
+
+C:\Users\86185\Desktop\ArbitrumTask\anlien7\arbitrum-rust-colearning-anlien7\Task1\hello_alloy\target\debug\deps\libethers_addressbook-8ac8f09995861fb4.rmeta: C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\lib.rs C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\../README.md C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\./contracts/contracts.json
+
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\lib.rs:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\../README.md:
+C:\Users\86185\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ethers-addressbook-2.0.14\src\./contracts/contracts.json:
